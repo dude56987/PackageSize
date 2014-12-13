@@ -1,0 +1,10 @@
+Package: packagesize
+Version: 0.1
+Section: admin
+Maintainer: Carl J Smith <BM-NBHLt5EUFVEbRCmrbVrfCyaB2c8d24U9>
+Installed-Size: 20
+Priority: optional
+Architecture: all
+Depends: bash
+Description: Show the installed size of a package or group of packages.
+ Show the installed size of a package given by the user or a group of packages. The total of all packages given will be listed at the end.
